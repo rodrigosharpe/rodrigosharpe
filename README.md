@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil Rodrigo 
+## Bem-vindo(a) ao perfil do Rodrigo 
 
  <div>
    <a href="https://github.com/rodrigosharpe">
